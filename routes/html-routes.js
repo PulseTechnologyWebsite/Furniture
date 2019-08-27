@@ -1,9 +1,9 @@
-var path = require("path");
+// var path = require("path");
 
-module.exports = (app)=>{
+// module.exports = (app)=>{
 
-    app.get("/home", (req, res)=>{
-        res.render("home")
-    });
+//     app.get("/home", (req, res)=>{
+//         res.render("home")
+//     });
 
-};
+// };
